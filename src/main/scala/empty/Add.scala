@@ -1,7 +1,5 @@
 /*
  * Dummy file to start a Chisel project.
- *
- * 
  */
 
 package empty
