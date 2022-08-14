@@ -136,7 +136,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_333.jdk/Contents/Home/jre",
+                "home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre",
                 "options": [
                     "-Duser.dir=/Users/parkdongho/dev/chisel/AXI-DMA"
                 ]
